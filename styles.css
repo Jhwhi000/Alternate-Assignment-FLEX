@@ -1,0 +1,24 @@
+input {
+    width: 100px;
+}
+fieldset {
+    width: 500px;
+    margin-left: 535px;
+    margin-right: 535px;
+    background-color: black;
+    border-width: 18px;
+    border-color: white;
+    border-style: groove;
+}
+html {
+
+}
+body {
+    background-image: url("math2.png");
+}
+h2 {
+    color: white;
+}
+#fieldset2 {
+    width: 300px;
+}
