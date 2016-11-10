@@ -3,8 +3,8 @@ input {
 }
 fieldset {
     width: 500px;
-    margin-left: 535px;
-    margin-right: 535px;
+    margin-left: 385px;
+    margin-right: 385px;
     background-color: black;
     border-width: 18px;
     border-color: white;
@@ -18,7 +18,4 @@ body {
 }
 h2 {
     color: white;
-}
-#fieldset2 {
-    width: 300px;
 }
